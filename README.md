@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+## Screenshots
+
+### No material 3
+
+![nomaterial3](.github/images/nomaterial3.png)
+
+### With material 3
+
+![withmaterial3](.github/images/withmaterial3.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
